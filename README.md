@@ -3,7 +3,7 @@
 A userscript that automatically redirects dead `animepahe.ru` links to the working `animepahe.si` domain.
 
 > [!IMPORTANT]
-> >This is an **unofficial** userscript created by the community. It is **not** affiliated with or endorsed by AnimePahe.
+> This is an **unofficial** userscript created by the community. It is **not** affiliated with or endorsed by AnimePahe.
 
 ## What it does
 
