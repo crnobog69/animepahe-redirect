@@ -2,7 +2,8 @@
 
 A userscript that automatically redirects dead `animepahe.ru` links to the working `animepahe.si` domain.
 
-> **⚠️ Disclaimer**: This is an **unofficial** userscript created by the community. It is **not** affiliated with or endorsed by AnimePahe.
+> [!IMPORTANT]
+> >This is an **unofficial** userscript created by the community. It is **not** affiliated with or endorsed by AnimePahe.
 
 ## What it does
 
