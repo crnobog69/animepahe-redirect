@@ -8,8 +8,8 @@
 // @run-at      document-start
 // @author      crnobog69
 // @homepage    https://github.com/crnobog69
-// @updateURL   https://raw.githubusercontent.com/crnobog69/animepahe-redirect/refs/heads/main/animepahe-redirect.js
-// @downloadURL https://raw.githubusercontent.com/crnobog69/animepahe-redirect/refs/heads/main/animepahe-redirect.js
+// @updateURL   https://raw.githubusercontent.com/crnobog69/animepahe-redirect/refs/heads/main/animepahe-redirect.user.js
+// @downloadURL https://raw.githubusercontent.com/crnobog69/animepahe-redirect/refs/heads/main/animepahe-redirect.user.js
 // ==/UserScript==
 
 (function() {
