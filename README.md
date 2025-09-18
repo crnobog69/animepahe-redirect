@@ -14,7 +14,7 @@ A userscript that automatically redirects dead `animepahe.ru` links to the worki
 
 ## Installation
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/)
+1. Install [Violentmonkey](https://violentmonkey.github.io/), [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/)
 2. Click [here](https://raw.githubusercontent.com/crnobog69/animepahe-redirect/main/animepahe-redirect.user.js) to install the script
 3. Enable the script in your userscript manager
 
